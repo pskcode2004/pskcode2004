@@ -45,7 +45,7 @@ I'm a 3rd-year **Computer Science** student at **Rajamangala University of Techn
 
 <div align="center">
   <i>Let's explore the future of tech together!</i><br><br>
-  <a href="mailto:memory.pongsakorn@gmail.com">
+  <a href="mailto:[memory.pongsakorn@gmail.co](https://mail.google.com/mail/u/1/#inbox)m">
     <img src="https://img.shields.io/badge/Contact_Me-0052CC?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
