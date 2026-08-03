@@ -31,7 +31,7 @@ I'm a 3rd-year **Computer Science** student at **Rajamangala University of Techn
     <td align="center" width="33%">
       <b>Backend & Services</b><br>
       <i>(Performance & Scale)</i><br><br>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,supabase,mysql" alt="Backend Skills" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,postman" alt="Backend Skills" />
     </td>
     <td align="center" width="33%">
       <b>Tools & Exploring</b><br>
