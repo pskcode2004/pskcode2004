@@ -1,5 +1,5 @@
 <h1 align="center" style="color: #0052CC;">Pongsakorn Phomekham</h1>
-<h3 align="center">Full-Stack Developer & Tech Enthusiast</h3>
+<h3 align="center">Full-Stack Developer</h3>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Open_for_Internships-0052CC?style=for-the-badge" alt="Status" />
