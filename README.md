@@ -35,8 +35,8 @@ I'm a 3rd-year **Computer Science** student at **Rajamangala University of Techn
     </td>
     <td align="center" width="33%">
       <b>Tools & Exploring</b><br>
-      <i>(Production & AI)</i><br><br>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,py,tensorflow" alt="Tools Skills" />
+      <i>(Production & Design)</i><br><br>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,py,figma" alt="Tools Skills" />
     </td>
   </tr>
 </table>
