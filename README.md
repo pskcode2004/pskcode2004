@@ -15,7 +15,7 @@ I'm a 3rd-year **Computer Science** student at **Rajamangala University of Techn
 
 - 🚀 **Current Focus:** Front-end development (React, Next.js) and diving into Machine Learning & Deep Learning architectures.
 - 💡 **Philosophy:** Striving for elegant, maintainable code that delivers real value and doesn't just work, but feels great to use.
-- 🎓 **Education:** Junior CS Student @ RMUTSB.
+- 🎓 **Education:** Student Comsci @ RMUTSB.
 
 <hr>
 
