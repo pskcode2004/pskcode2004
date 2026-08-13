@@ -1,4 +1,6 @@
-<h1 align="center" style="color: #0052CC;">Pongsakorn Phomekham</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=42&pause=1000&color=0052CC&center=true&vCenter=true&width=600&lines=Pongsakorn+Phomekham" alt="Pongsakorn Phomekham" />
+</h1>
 <h3 align="center">Full-Stack Developer</h3>
 
 <div align="center">
