@@ -18,7 +18,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a 3rd-year **Computer Science** student at **Rajamangala University of Technology Suvarnabhumi**. I am passionate about web development and dedicated to building clean, efficient, and user-friendly software solutions.
+I'm a 4rd-year **Computer Science** student at **Rajamangala University of Technology Suvarnabhumi**. I am passionate about web development and dedicated to building clean, efficient, and user-friendly software solutions.
 
 - 🚀 **Current Focus:** Front-end development (React, Next.js) and diving into Machine Learning & Deep Learning architectures.
 - 📱 **Also exploring:** Mobile apps with Expo / React Native and cloud backends with Supabase — see **[Jotnote](https://github.com/pskcode2004/jotnote)**.
