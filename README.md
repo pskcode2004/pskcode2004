@@ -32,7 +32,7 @@ I'm a 4rd-year **Computer Science** student at **Rajamangala University of Techn
 - 🎓 **Education:** Student Comsci @ RMUTSB.
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=70&color=1D285E&text=%F0%9F%9B%A0%EF%B8%8F%20Tech%20Stack%20%26%20Tools&fontColor=E9B6E6&fontSize=26&fontAlignY=52" alt="Tech Stack & Tools" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=70&color=1D285E&text=%F0%9F%9B%A0%20Tech%20Stack%20%26amp%3B%20Tools&fontColor=E9B6E6&fontSize=26&fontAlignY=52" alt="Tech Stack & Tools" />
 </div>
 
 <table align="center">
