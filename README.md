@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=1D285E&section=header" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=1D285E&section=header&fontColor=ffffff" alt="header" />
 </div>
 
 <h1 align="center">
@@ -14,9 +14,15 @@
   <img src="https://img.shields.io/badge/Also-Mobile_%26_Cloud-AF6DAB?style=for-the-badge" alt="Mobile and Cloud" />
 </div>
 
-<hr>
+<br />
 
-### 👨‍💻 About Me
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=AF6DAB" width="60%" alt="divider" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=70&color=1D285E&text=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%20About%20Me&fontColor=E9B6E6&fontSize=26&fontAlignY=52" alt="About Me" />
+</div>
 
 I'm a 4rd-year **Computer Science** student at **Rajamangala University of Technology Suvarnabhumi**. I am passionate about web development and dedicated to building clean, efficient, and user-friendly software solutions.
 
@@ -25,9 +31,9 @@ I'm a 4rd-year **Computer Science** student at **Rajamangala University of Techn
 - 💡 **Philosophy:** Striving for elegant, maintainable code that delivers real value and doesn't just work, but feels great to use.
 - 🎓 **Education:** Student Comsci @ RMUTSB.
 
-<hr>
-
-### 🛠️ Tech Stack & Tools
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=70&color=1D285E&text=%F0%9F%9B%A0%EF%B8%8F%20Tech%20Stack%20%26%20Tools&fontColor=E9B6E6&fontSize=26&fontAlignY=52" alt="Tech Stack & Tools" />
+</div>
 
 <table align="center">
   <tr>
@@ -49,9 +55,9 @@ I'm a 4rd-year **Computer Science** student at **Rajamangala University of Techn
   </tr>
 </table>
 
-<hr>
-
-## ⭐ Popular repositories
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=70&color=1D285E&text=%E2%AD%90%20Popular%20repositories&fontColor=E9B6E6&fontSize=26&fontAlignY=52" alt="Popular repositories" />
+</div>
 
 <table align="center">
   <tr>
@@ -80,22 +86,28 @@ I'm a 4rd-year **Computer Science** student at **Rajamangala University of Techn
   </tr>
 </table>
 
-<hr>
-
-## 📈 Contribution activity
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=70&color=1D285E&text=%F0%9F%93%88%20Contribution%20activity&fontColor=E9B6E6&fontSize=26&fontAlignY=52" alt="Contribution activity" />
+</div>
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/AF6DAB/pskcode2004" alt="Contribution calendar" width="100%" />
-  <br />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pskcode2004/pskcode2004/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pskcode2004/pskcode2004/output/snake-light.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/pskcode2004/pskcode2004/output/snake-light.svg" width="100%" />
+  </picture>
+  <br /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pskcode2004&background=1D285E&border=AF6DAB&stroke=AF6DAB&ring=AF6DAB&fire=F2A07B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E9B6E6&sideLabels=E9B6E6&dates=C8CCEA" alt="Streak" />
-  <br />
+  <br /><br />
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=pskcode2004&show_icons=true&bg_color=1D285E&title_color=AF6DAB&text_color=E8EAF6&icon_color=AF6DAB&border_color=AF6DAB" alt="GitHub stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pskcode2004&layout=compact&bg_color=1D285E&title_color=AF6DAB&text_color=E8EAF6&border_color=AF6DAB" alt="Top languages" />
 </div>
 
-<hr>
+<br />
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=AF6DAB" width="60%" alt="divider" />
+  <br /><br />
   <i>Let's explore the future of tech together!</i><br><br>
   <a href="mailto:memory.pongsakorn@gmail.com">
     <img src="https://img.shields.io/badge/Contact_Me-AF6DAB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
